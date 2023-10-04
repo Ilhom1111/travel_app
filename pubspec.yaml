@@ -1,0 +1,45 @@
+name: travel_app
+description: A new Flutter project.
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: SF UI Display
+      fonts:
+        - asset: assets/fonts/SF_UI_Display/sf-ui-display-thin-58646e9b26e8b.otf
+          weight: 100
+        - asset: assets/fonts/SF_UI_Display/sf-ui-display-light-58646b33e0551.otf
+          weight: 300
+        - asset: assets/fonts/SF_UI_Display/sf-ui-display-medium-58646be638f96.otf
+          weight: 500
+        - asset: assets/fonts/SF_UI_Display/sf-ui-display-semibold-58646eddcae92.otf
+          weight: 600
+        - asset: assets/fonts/SF_UI_Display/sf-ui-display-bold-58646a511e3d9.otf
+          weight: 700
+        - asset: assets/fonts/SF_UI_Display/sf-ui-display-black-58646a6b80d5a.otf
+          weight: 900
