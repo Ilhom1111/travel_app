@@ -1,9 +1,9 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:travel_app/customs/images.dart';
-import 'package:travel_app/customs/strings.dart';
-import 'package:travel_app/customs/text_stile.dart';
+import 'package:travel_app/custom/images.dart';
+import 'package:travel_app/custom/strings.dart';
+import 'package:travel_app/custom/text_stile.dart';
 import 'package:travel_app/view/back_button.dart';
 import 'package:travel_app/view/edit_button.dart';
 import 'package:travel_app/view/user_info.dart';

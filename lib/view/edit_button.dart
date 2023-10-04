@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../customs/colors.dart';
-import '../customs/icons.dart';
+import '../custom/colors.dart';
+import '../custom/icons.dart';
 
 class EditButton extends StatelessWidget {
   final Function() onTap;

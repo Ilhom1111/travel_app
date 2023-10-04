@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../customs/text_stile.dart';
+import '../custom/text_stile.dart';
 
 class InfoTravelCard extends StatelessWidget {
   final String text1;

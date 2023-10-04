@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../customs/colors.dart';
-import '../customs/text_stile.dart';
+import '../custom/colors.dart';
+import '../custom/text_stile.dart';
 
 class UserInfo extends StatelessWidget {
   final String userName;

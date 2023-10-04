@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:travel_app/customs/strings.dart';
+import 'package:travel_app/custom/strings.dart';
 
-import '../customs/colors.dart';
-import '../customs/icons.dart';
-import '../customs/text_stile.dart';
+import '../custom/colors.dart';
+import '../custom/icons.dart';
+import '../custom/text_stile.dart';
 
 class Menyu extends StatelessWidget {
   final Function() prsProfile;
